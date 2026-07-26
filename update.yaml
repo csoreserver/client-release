@@ -1,5 +1,5 @@
 ﻿version: 2026-07-26_obt
-url: https://raw.githubusercontent.com/csoreserver/client-release/refs/tags/2026-07-26_obt/
+url: https://github.com/csoreserver/client-release/raw/refs/tags/2026-07-26_obt/
 files:
   - Bin/API-MS-Win-core-xstate-l2-1-0.dll
   - Bin/BGM_Rex_loop.mp3
