@@ -10,3 +10,6 @@ Bin/steam_settings/
 Data/Packer/*.bat
 Data/Packer/*.exe
 Data/Packer/lstrike/
+
+# dev tools
+genupdatelist.ps1
