@@ -1,0 +1,12 @@
+*.log
+*.dmp
+*.zip
+!Bin/_CSOLauncher_backup.zip
+Bin/BlackCipher/
+Bin/GPUCache/
+Bin/DawnCache/
+Bin/SAVE/
+Bin/steam_settings/
+Data/Packer/*.bat
+Data/Packer/*.exe
+Data/Packer/lstrike/
