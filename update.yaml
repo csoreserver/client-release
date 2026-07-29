@@ -1,5 +1,5 @@
-﻿version: 2026-07-26_obt
-url: https://github.com/csoreserver/client-release/raw/refs/tags/2026-07-26_obt/
+version: 2026-07-29_obt
+url: https://github.com/csoreserver/client-release/raw/refs/tags/2026-07-29_obt/
 files:
   - path: Bin/API-MS-Win-core-xstate-l2-1-0.dll
     sha256: 7cf73e4f69b3dfd89f3b24167f2f421b17537f3a4e707c63c675457b4fbf850b
@@ -10,7 +10,7 @@ files:
   - path: Bin/BGM_zombie_attack.mp3
     sha256: 209b534aa67794225ad0007dadfc55da808d18ad283434de2d20247be52bb608
   - path: Bin/CSOLauncher.exe
-    sha256: cd0d1e51b2c3c8433ce20ad2cd700a00cfe4151c29867e3617cd369603bc36ce
+    sha256: 859d2d9d861a03593741711ffe2bc98b18cbabc1d6eb8ce542b4de11420f01c7
   - path: Bin/CSOWeapon.dll
     sha256: 40bef6493d9a168aac707d0da2b4d4adbad858ad72eed58e2dcc29470263eee9
   - path: Bin/CSO_Result.mp3
@@ -56,7 +56,7 @@ files:
   - path: Bin/NPS.dll
     sha256: bb5ddbcd5eca0a9edaf4b09af1cc26c764c79912f0eae5363485df14631a81df
   - path: Bin/NexonAnalytics.dll
-    sha256: 2323bcbcb7244e95070d65200bdcb20c6fed35651553dbee90f9d508561dafbc
+    sha256: 0b5a77f34f2f9e8e5ba762122ffa93b5c8c1705d6b9802cff2fe327880649053
   - path: Bin/NexonAnalytics32.dll
     sha256: 6c53a9c7914ad1d45530f250b77bde90e785c74de261f31ff9d0f2834cd22183
   - path: Bin/PVE_Standalone_BGM.mp3
@@ -1560,7 +1560,7 @@ files:
   - path: Data/cstrike.nar
     sha256: 32f9374f277cb985f1a9c2378a97c0a2b786758ba4fe9bc76095def3da922134
   - path: Data/cstrike_csorse.nar
-    sha256: e88361eb220ca6b81b0dcaca96eb90736737ba958cb76115993093ee66ef86b0
+    sha256: cc3cbc0c148d16b948e9a96861f0a5d596f428448118a8c6d425d9208f0418ac
   - path: Data/cstrike_na.nar
     sha256: bf07aa090e49a7ed529a62d5952b110b1f9ea53512c145ae68fc28b505c26f5a
   - path: Data/cstrike_na_en.nar
@@ -1570,15 +1570,19 @@ files:
   - path: Data/dstrike.nar
     sha256: febbd6b38e510e569d61ab726dd71ab60a6edd39c446074e99ce91cc3c24af29
   - path: Data/dstrike_csorse.nar
-    sha256: cc66bb4160aca26bd8aebc305d806557a7e91af5192a22c62c7aecfd8d7569e2
+    sha256: 7c73bda0469a500ddedbc07b7f5c8fa722c44108bed52bbab74710a521b988f7
   - path: Data/estrike.nar
     sha256: 3ee2d4dac019ab52cff43ed8b5de3bc9ba3d8e6e0aa2b4f871ae55ed506e4616
+  - path: Data/estrike_csorse.nar
+    sha256: 2f79d68f5deaa4d9fcde800cf5709a936b804052d34ab13a5fee5ea91edc69db
   - path: Data/fixtrike.nar
-    sha256: 1ca7649ed52aff8e989b130396cbc91793ed41361425c697dc4c752b8d907c7c
+    sha256: 11f4e4a1d067221a7941e5b7a28a8ac3af6bd907508a1d1d217b0f16bfbbd77a
   - path: Data/fstrike.nar
     sha256: c896f08b77e37bcb1d1d72aa34736eeff8b09210ec1fc1f93e01ff48089ef678
   - path: Data/resource.nar
     sha256: 33b1e65f0ded482e642c93f309e1f79a67d8916511aebeeb9751ef8e8a3eaa65
   - path: Data/valve.nar
     sha256: 816cb77f7ce71f2c73e36befe5a74ba2011605a8b7025ba465781acb8b6eb9dc
+  - path: client-launcher.ps1
+    sha256: b0f902763df8dd42633eea2d432eef93e73fa1fa9e3b8b5b32a2dbc493304c68
 
